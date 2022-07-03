@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581230337287",
+    "project_id": "auth-app-2d2a3",
+    "storage_bucket": "auth-app-2d2a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581230337287:android:e7001e035a219af6d6f9a2",
+        "android_client_info": {
+          "package_name": "com.kalvin.myloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581230337287-7s1gr1edgtlq5go3d8dsg0o27fqrv85d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYOwb1NOL4SfBqtOW3XH-dF887hmQszk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581230337287-7s1gr1edgtlq5go3d8dsg0o27fqrv85d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
